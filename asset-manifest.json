@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/mon-portfolio/static/css/main.84a3660e.css",
+    "main.css": "/mon-portfolio/static/css/main.3ffe7023.css",
     "main.js": "/mon-portfolio/static/js/main.63a0b3cc.js",
     "static/js/14.bd6f05a0.chunk.js": "/mon-portfolio/static/js/14.bd6f05a0.chunk.js",
     "static/js/283.43d47dbe.chunk.js": "/mon-portfolio/static/js/283.43d47dbe.chunk.js",
@@ -27,7 +27,7 @@
     "static/media/openclassrooms.webp": "/mon-portfolio/static/media/openclassrooms.27204d17e9b1c022e0f4.webp",
     "static/media/societe-generale.webp": "/mon-portfolio/static/media/societe-generale.ca33e76fc7b016338e1a.webp",
     "index.html": "/mon-portfolio/index.html",
-    "main.84a3660e.css.map": "/mon-portfolio/static/css/main.84a3660e.css.map",
+    "main.3ffe7023.css.map": "/mon-portfolio/static/css/main.3ffe7023.css.map",
     "main.63a0b3cc.js.map": "/mon-portfolio/static/js/main.63a0b3cc.js.map",
     "14.bd6f05a0.chunk.js.map": "/mon-portfolio/static/js/14.bd6f05a0.chunk.js.map",
     "283.43d47dbe.chunk.js.map": "/mon-portfolio/static/js/283.43d47dbe.chunk.js.map",
@@ -41,7 +41,7 @@
     "474.5155ac4c.chunk.css.map": "/mon-portfolio/static/css/474.5155ac4c.chunk.css.map"
   },
   "entrypoints": [
-    "static/css/main.84a3660e.css",
+    "static/css/main.3ffe7023.css",
     "static/js/main.63a0b3cc.js"
   ]
 }
