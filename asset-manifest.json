@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/mon-portfolio/static/css/main.2f4fb839.css",
-    "main.js": "/mon-portfolio/static/js/main.cb89f6bf.js",
+    "main.css": "/mon-portfolio/static/css/main.fff0ffe4.css",
+    "main.js": "/mon-portfolio/static/js/main.a99d6d48.js",
     "static/media/fa-solid-900.ttf": "/mon-portfolio/static/media/fa-solid-900.2582b0e4bcf85eceead0.ttf",
     "static/media/fa-brands-400.ttf": "/mon-portfolio/static/media/fa-brands-400.1815e00441357e01619e.ttf",
     "static/media/sa.png": "/mon-portfolio/static/media/sa.3db5c960448694578be8.png",
     "static/media/fa-solid-900.woff2": "/mon-portfolio/static/media/fa-solid-900.2463b90d9a316e4e5294.woff2",
     "static/media/fa-brands-400.woff2": "/mon-portfolio/static/media/fa-brands-400.c210719e60948b211a12.woff2",
+    "static/media/femmeBureau.webp": "/mon-portfolio/static/media/femmeBureau.0024177f13c51b6e7174.webp",
     "static/media/fa-regular-400.ttf": "/mon-portfolio/static/media/fa-regular-400.914997e1bdfc990d0897.ttf",
-    "static/media/femmeBureau.svg": "/mon-portfolio/static/media/femmeBureau.59683b21124b963f0cbe.svg",
     "static/media/fa-regular-400.woff2": "/mon-portfolio/static/media/fa-regular-400.89999bdf5d835c012025.woff2",
     "static/media/fa-v4compatibility.ttf": "/mon-portfolio/static/media/fa-v4compatibility.da94ef451f4969af06e6.ttf",
     "static/media/fa-v4compatibility.woff2": "/mon-portfolio/static/media/fa-v4compatibility.ea8f94e1d22e0d35ccd4.woff2",
@@ -17,11 +17,11 @@
     "static/media/openclassrooms.webp": "/mon-portfolio/static/media/openclassrooms.27204d17e9b1c022e0f4.webp",
     "static/media/societe-generale.webp": "/mon-portfolio/static/media/societe-generale.ca33e76fc7b016338e1a.webp",
     "index.html": "/mon-portfolio/index.html",
-    "main.2f4fb839.css.map": "/mon-portfolio/static/css/main.2f4fb839.css.map",
-    "main.cb89f6bf.js.map": "/mon-portfolio/static/js/main.cb89f6bf.js.map"
+    "main.fff0ffe4.css.map": "/mon-portfolio/static/css/main.fff0ffe4.css.map",
+    "main.a99d6d48.js.map": "/mon-portfolio/static/js/main.a99d6d48.js.map"
   },
   "entrypoints": [
-    "static/css/main.2f4fb839.css",
-    "static/js/main.cb89f6bf.js"
+    "static/css/main.fff0ffe4.css",
+    "static/js/main.a99d6d48.js"
   ]
 }
